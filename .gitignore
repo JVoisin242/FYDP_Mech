@@ -1,1 +1,5 @@
 ~$*
+*.CWR
+*.LOG
+*.MFC
+PerformanceLog.txt
